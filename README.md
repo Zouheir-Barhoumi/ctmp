@@ -11,9 +11,6 @@ CTMP is the Task Management Platform that I built for my final year project.
   * Collaborate with others
   * Create Projects and Lists
   * Create tasks within lists
-  * Assign Tasks to others
-  * Set the status of a task
-  * Set the priority of a task
   * Mark task completion
 
 ## Technologies
