@@ -1,5 +1,5 @@
 # CTMP
-CTMP is the Task Management Platform that I built for my final year project. 
+Collaborative Task Management Platform.
 
 ***
 
