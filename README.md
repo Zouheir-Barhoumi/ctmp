@@ -1,6 +1,5 @@
 # CTMP
-Collaborative Task Management Platform.
-
+A task management platform that let's you manage projects and tasks in a collaborative way.
 ***
 
 ## Main Features
